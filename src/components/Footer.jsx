@@ -97,7 +97,7 @@ const Footer = () => {
                 className="relative flex items-center cursor-pointer overflow-hidden py-1 bg-slate-900/90 rounded-xl px-3 border border-slate-800"
               >
                 <img
-                  src="/Dynamic Impact (4) (1).png"
+                  src="/logo.png"
                   alt="Dynamic Impact Solutions Logo"
                   className="h-14 sm:h-16 md:h-20 w-auto object-contain scale-125 transition-all"
                 />
