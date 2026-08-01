@@ -23,7 +23,6 @@ const Navbar = () => {
       className="fixed top-0 left-0 right-0 bg-[#00132A] backdrop-blur-md z-50 border-b border-slate-800/80 shadow-md transition-colors duration-300"
     >
       <div className="w-full flex justify-between items-center container mx-auto px-4 sm:px-6 lg:px-8 h-20 sm:h-24">
-        
         {/* Logo */}
         <motion.a
           href="#home"
@@ -33,9 +32,9 @@ const Navbar = () => {
           className="flex items-center cursor-pointer overflow-hidden py-1"
         >
           <img
-            src="/Dynamic Impact (4) (1).png"
+            src="/logo.png"
             alt="Dynamic Impact Solutions Logo"
-            className="h-14 sm:h-16 md:h-20 w-auto object-contain scale-125 transition-all"
+            className="h-12 w-auto object-contain"
           />
         </motion.a>
 
