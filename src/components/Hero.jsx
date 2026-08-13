@@ -59,7 +59,7 @@ const Hero = () => {
             viewport={{ once: true }}
             className="text-slate-300 text-lg md:text-xl leading-relaxed max-w-xl"
           >
-            DynImpact delivers robust IT infrastructure, Biometric installation and configuration.
+            Dynamic Impact Solutions delivers robust IT infrastructure, Biometric installation and configuration.
           </motion.p>
 
           {/* CTA Buttons */}

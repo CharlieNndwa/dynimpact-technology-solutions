@@ -68,10 +68,10 @@ const PurposeSection = () => {
             viewport={{ once: true }}
             className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-slate-900 tracking-tight"
           >
-            The Purpose Behind <span className="text-blue-600">DynImpact</span>
+            The Purpose Behind <span className="text-blue-600">Dynamic Impact Solutions</span>
           </motion.h2>
 
-          <motion.p
+          {/* <motion.p
             variants={fadeIn("up", 0.4)}
             initial="hidden"
             whileInView="show"
@@ -79,7 +79,7 @@ const PurposeSection = () => {
             className="mt-4 text-slate-600 text-base sm:text-lg leading-relaxed"
           >
             Dynamic Impact Solutions
-          </motion.p>
+          </motion.p> */}
         </div>
 
         {/* Main Grid: Left Side Image with Clip Effect, Right Side 4 Cards */}
